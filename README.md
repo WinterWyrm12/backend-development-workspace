@@ -13,4 +13,6 @@
 
 
 **Plan for Semester:**
-- Progress tracker: I can use this repository to view my progress as I grow through the semester.s
+- Progress tracker: I can use this repository to view my progress as I grow through the semester.
+
+//note: add link before unit 2 (ceheck rize)
